@@ -1,4 +1,4 @@
-package com.bjgoodwill.clinicalresearch;
+package com.github.ztq2016;
 
 public enum SVN_INFO_KEY {
     /**svn对应的url*/

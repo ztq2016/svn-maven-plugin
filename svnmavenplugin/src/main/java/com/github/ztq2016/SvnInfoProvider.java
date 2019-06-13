@@ -1,4 +1,4 @@
-package com.bjgoodwill.clinicalresearch;
+package com.github.ztq2016;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
